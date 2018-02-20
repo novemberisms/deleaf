@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText 3 by /u/Novemberisms AKA Biao -->
+<Mod id="888aece1-dcef-366b-271d-217f0b6c9305">
+	<Properties>
+		<Name>LOC_BIAOS_MOD_NAME</Name>
+		<Stability>Alpha</Stability>
+		<Teaser>LOC_BIAOS_MOD_TEASER</Teaser>
+		<Description>LOC_BIAOS_MOD_DESCRIPTION</Description>
+		<Authors>LOC_BIAOS_MOD_AUTHORS</Authors>
+		<SpecialThanks>LOC_BIAOS_MOD_SPECIAL_THANKS</SpecialThanks>
+	</Properties>
+	<Files>
+		<File>technology.xml</File>
+	</Files>
+	<Components>
+		<UpdateDatabase id="suggestionComponent">
+			<Items>
+				<File>technology.xml</File>
+			</Items>
+		</UpdateDatabase>
+	</Components>
+	
+	<LocalizedText>
+		<Text id="LOC_BIAOS_MOD_COMPONENT_NAME">
+			<en_US>De-leaf Celestial Navigation and Military Tactics</en_US>
+		</Text>
+		<Text id="LOC_BIAOS_MOD_AUTHORS">
+			<en_US>Biao</en_US>
+		</Text>
+		<Text id="LOC_BIAOS_MOD_SPECIAL_THANKS">
+			<en_US>Suggested by u/rattatatouille</en_US>
+		</Text>
+		<Text id="LOC_BIAOS_MOD_DESCRIPTION">
+			<en_US>De-leafs Celestial Navigation and Military Tactics by making Celestial Navigation a prerequisite for Shipbuilding and by making Military Tactics a prerequisite for Education.</en_US>
+		</Text>
+		<Text id="LOC_BIAOS_MOD_TEASER">
+			<en_US>De-leafs Celestial Navigation and Military Tactics by making Celestial Navigation a prerequisite for Shipbuilding and by making Military Tactics a prerequisite for Education.</en_US>
+		</Text>
+		<Text id="LOC_BIAOS_MOD_NAME">
+			<en_US>De-leaf Celestial Navigation and Military Tactics</en_US>
+		</Text>
+	</LocalizedText>	
+</Mod>

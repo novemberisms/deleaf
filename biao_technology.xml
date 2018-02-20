@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<TechnologyPrereqs>
+		<Row Technology="TECH_EDUCATION" PrereqTech="TECH_MILITARY_TACTICS" />
+		<Row Technology="TECH_SHIPBUILDING" PrereqTech="TECH_CELESTIAL_NAVIGATION" />
+	</TechnologyPrereqs>
+</GameInfo>
